@@ -8,9 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "dependencies": {
-    "api": "^5.0.8",
     "discord-slash-commands-v12": "^7.9.16",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3"
